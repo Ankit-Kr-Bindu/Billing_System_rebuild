@@ -1,0 +1,5 @@
+Velvet Table                          ,Cloth Saathi              ,8		        ,15,
+Microphone Set                        ,Audio Technica            ,189			,27,
+Disco Light Set                       ,Sonoff                    ,322			,31,
+7.1 Surround Sound Speaker Set        ,Dolby                     ,489			,22,
+Dinner Table 8x5                      ,Panda Furnitures          ,344			,13,
